@@ -1,0 +1,8 @@
+C:\Users\acer\source\repos\ProductAppVersion2\bin\Debug\ProductAppVersion2.exe.config
+C:\Users\acer\source\repos\ProductAppVersion2\bin\Debug\ProductAppVersion2.exe
+C:\Users\acer\source\repos\ProductAppVersion2\bin\Debug\ProductAppVersion2.pdb
+C:\Users\acer\source\repos\ProductAppVersion2\obj\Debug\ProductAppVersion2.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\ProductAppVersion2\obj\Debug\ProductAppVersion2.csproj.SuggestedBindingRedirects.cache
+C:\Users\acer\source\repos\ProductAppVersion2\obj\Debug\ProductAppVersion2.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\ProductAppVersion2\obj\Debug\ProductAppVersion2.exe
+C:\Users\acer\source\repos\ProductAppVersion2\obj\Debug\ProductAppVersion2.pdb
